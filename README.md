@@ -1,6 +1,6 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
-# Smile Volume Controller with Peace Sign Challenge 🎯
+# Chirikku Kutta : A Smile Volume Controller with Peace Sign Challenge 🎯
 
 **Author:** Mohamed Nihal T K N
 **Team / Single-member Project:** Mohamed Nihal T K N
