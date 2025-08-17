@@ -162,7 +162,9 @@ python main.py
 ---
 
 ## Demo
-<video src="https://github.com/nighaaaaal/useless_project_temp/blob/main/demo.mp4" controls width="100%"></video>
+Note: The demo video availabe at. However, in the demonstration video, the audio doesnt change as it is a screenrecording, But in it its clearly visible the audio bar changes, so its working, You can try it yourself.
+
+![Demo Video](https://github.com/nighaaaaal/useless_project_temp/blob/main/demo.mp4)
 
 ---
 
