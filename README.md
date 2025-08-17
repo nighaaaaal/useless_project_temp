@@ -42,7 +42,7 @@ Automatically set the system volume in real time based on a "smile score" (mouth
 
 **Software**
 
-* Python 3.8+ (recommended)
+* Python 3.10.11 (recommended)
 * OpenCV (`cv2`)
 * MediaPipe (`mediapipe`) — Face Mesh & Hands
 * NumPy (`numpy`)
@@ -59,17 +59,18 @@ Automatically set the system volume in real time based on a "smile score" (mouth
 
 ## Files
 
-* `main.py` — Main application (the code you provided).
+* `Chirikku_Kutta.py` — Main application (the code you provided).
 * `README.md` — This file.
 * `snapshot_YYYYMMDD_HHMMSS.png` — Generated on successful challenge (saved beside the script).
 
 ---
 
 ## Installation
+1.Install Python 3.10.11. If you don't have this specific version, it's highly recommended to install it from the [official Python website](https://www.python.org/downloads/release/python-31011/) to ensure compatibility.
 
-1. Clone the repository or copy the files to your machine.
+2. Clone the repository or copy the files to your machine.
 
-2. (Optional) Create and activate a virtual environment:
+3. (Optional) Create and activate a virtual environment:
 
 ```bash
 python -m venv venv
@@ -107,10 +108,11 @@ You can tweak the following constants near the top of the script:
 ## Usage
 
 1. Ensure your webcam is connected and not used by another application.
-2. Run the app:
+   Run the app using Python 3.10.11:
 
 ```bash
-python main.py
+# Use the specific python version to run the script
+python3.10 Chirikku_Kutta.py
 ```
 
 3. The app window shows:
