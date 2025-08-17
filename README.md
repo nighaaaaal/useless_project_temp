@@ -1,4 +1,4 @@
-<img width="3188" height="1202" alt="frame (3)" src="https://github.com/nighaaaaal/useless_project_temp/blob/main/istockphoto-157165389-612x612.jpg" />
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 # Chirikku Kutta : A Smile Volume Controller with Peace Sign Challenge 🎯
 
