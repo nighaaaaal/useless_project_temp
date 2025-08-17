@@ -139,7 +139,7 @@ python main.py
 
 
 ![App Screenshot](https://github.com/nighaaaaal/useless_project_temp/blob/main/Screenshot%202025-08-15%20113656.png)
-![App Screenshot](https://github.com/nighaaaaal/useless_project_temp/blob/main/Screenshot%202025-08-15%20113656.png)
+![App Screenshot](https://github.com/nighaaaaal/useless_project_temp/blob/main/Screenshot%202025-08-15%20113510.png)
 
 ---
 
