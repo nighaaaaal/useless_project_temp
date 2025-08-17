@@ -162,7 +162,7 @@ python main.py
 ---
 
 ## Demo
-<video src="https://raw.githubusercontent.com/nighaaaaal/useless_project_temp/main/Screen%20Recording%202025-08-09%20163450.mp4" controls width="100%"></video>
+<video src="https://raw.githubusercontent.com/nighaaaaal/useless_project_temp/main/demo.mp4" controls width="100%"></video>
 
 ---
 
