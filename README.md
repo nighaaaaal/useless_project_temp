@@ -162,7 +162,7 @@ python main.py
 ---
 
 ## Demo
-<video src="https://raw.githubusercontent.com/nighaaaaal/useless_project_temp/main/demo.mp4" controls width="100%"></video>
+<video src="https://github.com/nighaaaaal/useless_project_temp/blob/main/demo.mp4" controls width="100%"></video>
 
 ---
 
