@@ -139,10 +139,7 @@ python main.py
 
 > (You can replace these with nicer images or export higher-resolution captures.)
 
-![App Screenshot](https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7)
-*Live feed showing face/hand landmarks and volume bar.*
-
-*Add at least two more screenshots if possible — e.g. challenge active overlay, saved snapshot, or full UI.*
+![App Screenshot](https://github.com/nighaaaaal/useless_project_temp/blob/main/Screenshot%202025-08-15%20113656.png)
 
 ---
 
