@@ -162,7 +162,7 @@ python main.py
 ---
 
 ## Demo
-[Video Demo](https://github.com/nighaaaaal/useless_project_temp/blob/main/Screen%20Recording%202025-08-09%20163450.mp4)
+[Video Demo]<video src="https://raw.githubusercontent.com/nighaaaaal/useless_project_temp/main/Screen%20Recording%202025-08-09%20163450.mp4" controls width="100%"></video>
 
 If you have a short demo video, paste the link here and describe what the clip shows (challenge success, attention penalty, volume scaling, etc.).
 
