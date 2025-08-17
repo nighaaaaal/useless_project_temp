@@ -162,7 +162,9 @@ python main.py
 ---
 
 ## Demo
-Note: The demo video availabe at. However, in the demonstration video, the audio doesnt change as it is a screenrecording, But in it its clearly visible the audio bar changes, so its working, You can try it yourself.
+Note: The demo video availabe at https://github.com/nighaaaaal/useless_project_temp/blob/main/demo.mp4. However, in the demonstration video, the audio doesnt change as it is a screenrecording, But in it its clearly visible the audio bar changes, so its working, You can try it yourself.
+
+TO VIEW THAT DOWNLOAD THE RAW FILE.
 
 ![Demo Video](https://github.com/nighaaaaal/useless_project_temp/blob/main/demo.mp4)
 
