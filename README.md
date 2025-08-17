@@ -137,7 +137,6 @@ python main.py
 
 ## Screenshots
 
-> (You can replace these with nicer images or export higher-resolution captures.)
 
 ![App Screenshot](https://github.com/nighaaaaal/useless_project_temp/blob/main/Screenshot%202025-08-15%20113656.png)
 
