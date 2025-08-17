@@ -80,7 +80,7 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 
-3. Install required packages:
+4. Install required packages:
 
 ```bash
 pip install opencv-python mediapipe numpy comtypes pycaw
@@ -108,7 +108,7 @@ You can tweak the following constants near the top of the script:
 ## Usage
 
 1. Ensure your webcam is connected and not used by another application.
-   Run the app using Python 3.10.11:
+2. Run the app using Python 3.10.11:
 
 ```bash
 # Use the specific python version to run the script
